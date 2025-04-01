@@ -6,5 +6,5 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ticket_booking_test
     username: postgres
-    password: a123456
+    password: pass
     driver-class-name: org.postgresql.Driver

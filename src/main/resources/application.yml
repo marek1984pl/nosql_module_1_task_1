@@ -18,8 +18,18 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ticket_booking
     username: postgres
-    password: a123456
+    password: pass
     driver-class-name: org.postgresql.Driver
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: ticket_booking
+
+  properties:
+    migration:
+      enabled: true
 
 logging:
   level:
