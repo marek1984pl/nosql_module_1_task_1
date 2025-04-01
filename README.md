@@ -6,4 +6,6 @@
 6. Run app
 7. Migration is done
 
+![sql](https://github.com/user-attachments/assets/1ad67e61-e3d8-4a8a-b229-6eaccb59dac2)
 
+![mongo](https://github.com/user-attachments/assets/eebca15e-e688-4e7c-bc16-9c2645913333)
